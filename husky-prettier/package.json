@@ -1,0 +1,32 @@
+{
+  "name": "@pawtwa/husky-prettier",
+  "version": "0.0.1",
+  "description": "Husky command for using Prettier library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pawtwa/husky-prettier.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "husky",
+    "prettier",
+    "git",
+    "hook",
+    "command",
+    "script",
+    "format",
+    "code",
+    "prettify"
+  ],
+  "author": "Paweł Twardziak <programmer@it-opes.com> (http://it-opes.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawtwa/husky-prettier/issues"
+  },
+  "homepage": "https://github.com/pawtwa/husky-prettier#readme"
+}
